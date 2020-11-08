@@ -55,8 +55,8 @@ font-size: 150% ;
  
 a {text-decoration: none;} 
 
-link:hover {
-	color: #eb34e8
+:hover {
+	color: #eb34e8;
 	font-size: 150% ;
 
 }
